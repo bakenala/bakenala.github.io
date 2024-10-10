@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bakenala.github.io/sitemap.html.gz
+Sitemap: https://bakenala.github.io/app/sitemap.html.gz
+Sitemap: https://bakenala.github.io/assets/sitemap.html.gz
+Sitemap: https://bakenala.github.io/css/sitemap.html.gz
+Sitemap: https://bakenala.github.io/includes/sitemap.html.gz
+Sitemap: https://bakenala.github.io/item/sitemap.html.gz
+Sitemap: https://bakenala.github.io/src/sitemap.html.gz
